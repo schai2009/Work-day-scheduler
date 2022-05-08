@@ -3,7 +3,7 @@
 This is a work day scheduler/planner application for user to list and save events for different hours of the day.
 
 ## Websites
-Github: 
+Github: https://github.com/schai2009/Work-day-scheduler
 Deployed: https://schai2009.github.io/Work-day-scheduler/
 Functionality
 When application is opened, the current date is displayed at the top of the planner
